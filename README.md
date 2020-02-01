@@ -18,7 +18,7 @@ to *VM Arguments* text field where **C:\Program Files (x86)\Java\javafx-sdk-11.0
 
 ## Technologies
 Project was created with:
-* Java 11
+* Java 8/11
 * JavaFX
 
 ## Author
