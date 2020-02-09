@@ -20,6 +20,7 @@ to *VM Arguments* text field where **C:\Program Files (x86)\Java\javafx-sdk-11.0
 Project was created with:
 * Java 8/11
 * JavaFX
+* Scene Builder
 
 ## Author
 Marcin Godlewski
